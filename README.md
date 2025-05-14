@@ -7,7 +7,7 @@
 ## 🧠 Introduction
 
 <p align="center">
-  <img src="MODEL-VF.png" alt="MODEL-VF" width="600">
+  <img src="MODEL-vIJCAI.png" alt="MODEL-vIJCAI" width="600">
 </p>The COGRASP model consists of three key modules:
 
 Multi-Relation Mining Module: Constructs a stock co-occurrence graph based on investor comments from social media, financial news, and market information. A Graph Neural Network (GNN) is used to extract inter-stock relational features from the graph.
