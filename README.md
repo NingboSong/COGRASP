@@ -29,7 +29,7 @@ Aggregation Module: Aggregates the multi-timescale features and integrates them 
 └── README.md
 ```
 
-## 🚀Quick Start
+## 🚀 Quick Start
 
 ### Environment Configuration
 
