@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### Data preparation
 
-The `data/` directory contains only the graph structure. You must prepare your own historical time series data separately. We recommend using [Akshare](https://github.com/akfamily/akshare) to get these data.
+The `data/` directory contains only the graph structure. You must prepare your own historical time series data separately, for example, by using [Akshare](https://github.com/akfamily/akshare) to get these data.
 
 ### Usage
 
