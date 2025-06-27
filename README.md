@@ -1,9 +1,11 @@
 # COGRASP: Co-Occurrence Graph based Stock Price Forecasting
 
----
 
-**A deep learning model for stock price prediction based on stock co-occurrence graph**
+---
 **IJCAI-2025**
+---
+**A deep learning model for stock price prediction based on stock co-occurrence graph**
+
 ## 🧠 Introduction
 
 <p align="center">
