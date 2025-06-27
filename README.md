@@ -3,7 +3,7 @@
 ---
 
 **A deep learning model for stock price prediction based on stock co-occurrence graph**
-
+**IJCAI-2025**
 ## 🧠 Introduction
 
 <p align="center">
